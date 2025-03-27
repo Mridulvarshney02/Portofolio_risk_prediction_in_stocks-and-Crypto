@@ -1,0 +1,4 @@
+Yfinance
+Pandas
+Matplotlib
+numpy
